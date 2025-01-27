@@ -23,7 +23,7 @@ h1,h2{
 }
 li.ProjectList{
     border: 2px solid black;
-    width: 600px;
+    width: 550px;
     padding: 5px;
     margin-top: 5px;
     border-radius: 5px;
@@ -72,7 +72,7 @@ div.Projects{
     width: 50%;
     border-radius: 5px;
     background-color: white;
-    padding: 50px; 
+    padding: 25px; 
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 a:link{
